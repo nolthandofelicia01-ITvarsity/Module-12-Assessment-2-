@@ -1,0 +1,21 @@
+body {
+padding: 6;
+margin: 0;
+background: #C4A484;
+}
+
+image {
+    background-image: url();
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: lightsalmon rgba(0, 0, 0, 0.6);
+}
+
+
+
